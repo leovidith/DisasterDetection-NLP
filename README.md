@@ -2,6 +2,14 @@
 
 This project demonstrates how to classify text data into "disaster" or "not disaster" categories using a Naive Bayes classifier with TF-IDF vectorization. The goal is to predict whether a given sentence is related to a disaster or not based on historical data.
 
+---
+
+## Dataset Visualization:
+<img src="https://github.com/leovidith/DisasterDetection-NLP/blob/main/images/kde.png"  width="600">
+<img src="https://github.com/leovidith/DisasterDetection-NLP/blob/main/images/pie%20charts.png"  width="600">
+
+---
+
 ## Table of Contents
 
 1. [Requirements](#requirements)
